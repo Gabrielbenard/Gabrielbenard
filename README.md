@@ -17,7 +17,7 @@
         <img align="Center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div> <br/>
 
-<h3 style="color: #333;"> b) Back-end ::</h2>
+<h3 style="color: #333;"> b) Back-end :</h2>
 
 <div style="display: inline_block" > <br/>
       <img align="Center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
