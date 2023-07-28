@@ -1,5 +1,5 @@
 
-## OLÁ ! SOU GBRIEL BERNADINO FULLSTACK DEVELOPER E RPA DEVELOPER 🙋‍♂️
+## OLÁ ! SOU GBRIEL BERNADINO | FULLSTACK DEVELOPER E RPA DEVELOPER 🙋‍♂️
 
         
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bernardino-88189a164/)
